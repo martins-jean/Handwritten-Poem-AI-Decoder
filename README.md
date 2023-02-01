@@ -1,7 +1,7 @@
 
-# CAN AI DECODE A HANDWRITTEN POEM?
+# Can AI decode a handwritten poem?
 
-## MULTI-LAYER PERCEPTRON FOR OPTICAL CHARACTER RECOGNITION
+## Multi-layer perceptron for optical character recognition
 
 ### PROJECT GOAL
 Decoding a poem that was handwritten letter by letter on paper.
