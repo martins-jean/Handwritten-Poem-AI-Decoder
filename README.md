@@ -30,7 +30,7 @@ EMNIST dataset composed of 145,600 images of handwritten letters:
 https://github.com/sorki/python-mnist
 
 ### KNOWN LIMITATIONS
-Similar projects normally have to deal with the segmentation problem where AI is challenged to recognize where a handwritten letter ends and another begins. In this case, each handwritten letters was written in a separate paper sheet so it 
+<p align="justify"> Similar projects normally have to deal with the segmentation problem where AI is challenged to recognize where a handwritten letter ends and another begins. In this case, each handwritten letters was written in a separate paper sheet so it. </p>
 
 The EMNIST dataset was extremely useful for the roman alphabet but other datasets would be needed to deliver the same results on a variety of foreign alphabets.
 ### TECHNOLOGIES USED
