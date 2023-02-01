@@ -25,7 +25,9 @@ IV. Scan the handwritten letters that form the short poem.
 V. Evaluate whether the model is able to reveal the meaning of the poem by converting each letter into typed text.
 
 ### DATA SOURCES
-EMNIST dataset composed of 145,600 images of handwritten letters.
+EMNIST dataset composed of 145,600 images of handwritten letters:
+
+https://github.com/sorki/python-mnist
 
 ### KNOWN LIMITATIONS
 Similar projects normally have to deal with the segmentation problem where AI is challenged to recognize where a handwritten letter ends and another begins. In this case, each handwritten letters was written in a separate paper sheet so it 
