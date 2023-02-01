@@ -32,7 +32,8 @@ https://github.com/sorki/python-mnist
 ### KNOWN LIMITATIONS
 <p align="justify"> Similar projects normally have to deal with the segmentation problem where AI is challenged to recognize where a handwritten letter ends and another begins. In this case, each handwritten letters was written in a separate paper sheet so it. </p>
 
-The EMNIST dataset was extremely useful for the roman alphabet but other datasets would be needed to deliver the same results on a variety of foreign alphabets.
+<p align="justify"> The EMNIST dataset was extremely useful for the roman alphabet but other datasets would be needed to deliver the same results on a variety of foreign alphabets. </p>
+  
 ### TECHNOLOGIES USED
 
 **IDE:** Google Colaboratory
